@@ -26,4 +26,4 @@ This repository contains the code for a simple weather app built using HTML, CSS
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Demo:
-![Weather App Demo](demo/demo-screenshot.png)
+![Weather App Demo](https://github.com/mohanty22/ipl-dashboard-spring-react/assets/92658723/385dc315-285a-4a6c-b5ef-19fab4fac724)
